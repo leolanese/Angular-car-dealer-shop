@@ -1,4 +1,7 @@
-# Angular Car Dealer Shop App
+# Angular Car Dealer Shop web application
+
+
+## Deployment instructions
 
 ```html
 npm i
